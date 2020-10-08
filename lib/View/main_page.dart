@@ -224,9 +224,11 @@ class _MainPageState extends State<MainPage> {
     for (int i = 1; i < 11; i++) {
       var newStepItems = DropdownMenuItem<int>(
           value: i,
-          child: Text(
-            "$i Credit",
-            style: myTextStyle(),
+          child: Center(
+            child: Text(
+              "$i Credit",
+              style: myTextStyle(),
+            ),
           ));
       myCreditList.add(newStepItems);
     }
@@ -269,9 +271,11 @@ class _MainPageState extends State<MainPage> {
     List<DropdownMenuItem<double>> myList = [];
     for (double i = 4.0; i >= 0; i = i - 0.5) {
       myList.add(DropdownMenuItem<double>(
-        child: Text(
-          letterAdder(i),
-          style: myTextStyle(),
+        child: Center(
+          child: Text(
+            letterAdder(i),
+            style: myTextStyle(),
+          ),
         ),
         value: i,
       ));
