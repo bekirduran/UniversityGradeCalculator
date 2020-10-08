@@ -2,6 +2,8 @@
 
 University  grade calculation application
 
+!!! You can delete the lectures you've added by swiping from right to left.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
