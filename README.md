@@ -14,3 +14,10 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+ # Screen Images About Portrait Application View 
+<img src=/ScreenShots/ss_portrait.gif width="400" height="700">
+
+ # Screen Images About Landscape Application View 
+<img src=/ScreenShots/ss_landscape.gif width="400" height="700">
