@@ -20,4 +20,4 @@ samples, guidance on mobile development, and a full API reference.
 <img src=/ScreenShots/ss_portrait.gif width="400" height="700">
 
  # Screen Images About Landscape Application View 
-<img src=/ScreenShots/ss_landspace.gif width="400" height="700">
+<img src=/ScreenShots/ss_landspace.gif width="700" height="400">
